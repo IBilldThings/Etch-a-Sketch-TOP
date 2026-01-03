@@ -1,0 +1,7 @@
+.container {
+    display: flex;
+    border: 4px solid brown;
+    height: 400px;
+    width: 400px;
+    flex-wrap: wrap;
+}
